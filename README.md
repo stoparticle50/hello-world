@@ -1,2 +1,3 @@
 # hello-world
-blah blah blah
+Oh Hai there
+This is kinda neat isn't it
